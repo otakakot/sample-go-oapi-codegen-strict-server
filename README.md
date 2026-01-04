@@ -1,0 +1,1 @@
+# sample-go-oapi-codegen-strict-server
